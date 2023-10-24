@@ -1,0 +1,2 @@
+*.ucas filter=lfs diff=lfs merge=lfs -text
+Horror_Game-Windows.ucas filter=lfs diff=lfs merge=lfs -text
